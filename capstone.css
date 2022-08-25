@@ -1,0 +1,49 @@
+/*RESET*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+	overflow-x: hidden;
+
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+ /* overflow-Y: hidden;*/
+}
+
+.bg {
+	position: absolute;
+
+}
+
+.main {
+	background-color: rgba(216,223,237, 0.8);
+	margin-top: 4rem;
+	max-height: 50px;
+	min-width: 425px;
+}
+
+.me-photo {
+	display: block;
+}
+.bg-title {
+
+}
+
+.LOREM {
+	position: relative;
+}
+
+.lorem {
+	text-align: justify;
+	max-height: 80px;
+	min-width: 350px;
+	position: absolute;
+}
+.navbar {
+
+}
